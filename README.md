@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kyeol1">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Welcome%20to%20kyeol1's%20Profile!&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Welcome%20&fontSize=40" />
   </a>
 </p>
 
@@ -28,10 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyeol1&theme=radical" alt="kyeol1's streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyeol1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
 
 <p align="center">
