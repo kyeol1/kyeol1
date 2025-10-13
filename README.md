@@ -1,13 +1,12 @@
 <p align="center">
   <a href="https://github.com/kyeol1">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome%20to%20kyeol1's%20Profile!&fontSize=60&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Welcome%20to%20kyeol1's%20Profile!&fontSize=50" />
   </a>
 </p>
 
 <div align="center">
 
 ### ✨ 정보통신공학과, kyeol1입니다.
-✨ 정보통신공학과, kyeol1입니다.
 </div>
 
 <br>
