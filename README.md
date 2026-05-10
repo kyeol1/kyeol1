@@ -43,11 +43,6 @@
 * **Signal Processing & Logic:** MATLAB/Simulink를 활용한 신호 처리 및 시스템 시뮬레이션 경험을 보유하고 있어, 게임 내 복잡한 수치 계산이나 확률 시뮬레이터 제작에 기여할 수 있습니다.
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyeol1&show_icons=true&theme=radical" alt="kyeol1's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeol1&layout=compact&theme=radical" alt="kyeol1's top langs"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyeol1&theme=radical" alt="kyeol1's streak stats"/>
